@@ -1,0 +1,17 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/rentedapartment": "pages/rentedapartment.js",
+  "/renewal/[id]": "pages/renewal/[id].js",
+  "/rent/[id]": "pages/rent/[id].js",
+  "/manage-rented-apartment": "pages/manage-rented-apartment.js",
+  "/login": "pages/login.js",
+  "/api/session": "pages/api/session.js",
+  "/apartment": "pages/apartment.js",
+  "/admin/dashboard": "pages/admin/dashboard.js",
+  "/": "pages/index.js",
+  "/profile": "pages/profile.js",
+  "/admin/user": "pages/admin/user.js",
+  "/api/login": "pages/api/login.js"
+}
